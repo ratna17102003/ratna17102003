@@ -1,4 +1,4 @@
-## Hi :smile:I'm "Ratna Shree Patil" 
+## Hi :smile:I'm "RatnaShree Patil" 
 
 " `I'm  passionate  MERN Stack Web App Developer from India. `  "
 
@@ -10,7 +10,7 @@
   `Node Js`  |  `Express Js`  
 
 💻 **Frontend :** 
-  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript` | `React Js`  
+  `HTML5`  |  `CSS3`  |  `JavaScript` | `React Js`  
 
 📚 **Databases:** `Mongo DB`   
 
