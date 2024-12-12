@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi :smile:I'm "Ratna Shree Patil" 
 
-<!--
-**ratna17102003/ratna17102003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+" `I'm  passionate  MERN Stack Web App Developer from India. `  "
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ratna17102003&label=Profile%20views&color=0e75b6&style=flat" alt="ratana" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</hr>
+
+ ⚙️ **Backend :** 
+  `Node Js`  |  `Express Js`  
+
+💻 **Frontend :** 
+  `HTML5`  |  `CSS3`  |  `Tailwind CSS`  |  `JavaScript` | `React Js`  
+
+📚 **Databases:** `Mongo DB`   
+
+🛠️ **Tools:** 
+ `Git & GitHub`  |  `Postman`  |   |  `VS Code`
+
+</hr>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratna17102003&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="ratna" /></p> 
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=ratna17102003&theme=dark&card_width=500&card_height=40" alt="ratna" /></p> 
+
+
+
