@@ -21,7 +21,7 @@
 
 </hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ratna17102003&theme=great-gatsby&show_icons=true&locale=en&layout=compact" alt="ratna" /></p> 
-<p><img src="https://github-readme-streak-stats.herokuapp.com?user=ratna17102003&theme=dark&card_width=500&card_height=40" alt="ratna" /></p> 
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com?user=ratna17102003&theme=dark&card_width=500&card_height=40" alt="ratna" /></p>  -->
 
 
 
